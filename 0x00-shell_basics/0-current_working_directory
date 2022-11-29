@@ -1,0 +1,2 @@
+#! print the pathname of current directory
+pwd
