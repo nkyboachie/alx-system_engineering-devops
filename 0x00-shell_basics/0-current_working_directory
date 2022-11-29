@@ -1,2 +1,2 @@
-#! print the pathname of current directory
+#!/bin/sh
 pwd
